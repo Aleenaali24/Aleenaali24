@@ -1,7 +1,7 @@
 # Hi there, I'm a Creative Software Developer! 👋✨
 
 ## 🚀 About Me
-Hey! I'm passionate about **developing innovative solutions** that make a real difference in the world! 💡 I love creating applications that solve **real-world problems** and bring ideas to life through code. 
+I'm passionate about **developing innovative solutions** that make a real difference in the world! 💡 I love creating applications that solve **real-world problems** and bring ideas to life through code. 
 
 **I live to develop, create, and innovate!** 🎯
 
@@ -58,7 +58,7 @@ I believe in:
 ## 🌟 Let's Connect!
 I'm always excited to collaborate on projects that can make a difference! 
 
-- 💼 **LinkedIn**: [[Your LinkedIn](https://www.linkedin.com/in/aleenaalikhan/)]
+- 💼 **LinkedIn**: [[My LinkedIn](https://www.linkedin.com/in/aleenaalikhan/)]
 
 ---
 
@@ -75,7 +75,7 @@ I'm always excited to collaborate on projects that can make a difference!
 
 ### "Let's build something amazing together!" 🚀💻
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Aleenaali24&color=brightgreen&style=flat-square)
 
 ⭐ **Thanks for visiting my profile!** ⭐
 
