@@ -75,7 +75,6 @@ I'm always excited to collaborate on projects that can make a difference!
 
 ### "Let's build something amazing together!" 🚀💻
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aleenaali24&color=brightgreen&style=flat-square)
 
 ⭐ **Thanks for visiting my profile!** ⭐
 
