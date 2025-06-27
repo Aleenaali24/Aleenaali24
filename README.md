@@ -1,4 +1,4 @@
-# Hi there, I'm a Creative Software Developer! 👋✨
+# Hi there, I'm Ally! 👋:)
 
 ## 🚀 About Me
 I'm passionate about **developing innovative solutions** that make a real difference in the world! 💡 I love creating applications that solve **real-world problems** and bring ideas to life through code. 
